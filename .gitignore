@@ -36,6 +36,7 @@ logs/
 # Temporary files
 *.tmp
 temp/
+*.env
 
 # OS-specific files (adjust as needed)
 .cache
